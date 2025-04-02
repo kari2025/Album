@@ -3,8 +3,17 @@ h2{color: red;}
 
 body{background-color: blue;}
 p{color: white;}
-li{color: rgb(161, 165, 42);}
+ol li{color: white(161, 165, 42);}
 img{width:100%;height: 100%; object-fit: cover;}
+ol li a{color:white;}
+   img{
+
+   } 
+
+img{width: 300px;height: auto;}
+
+
+
 
 
 
